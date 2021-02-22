@@ -1,6 +1,6 @@
-# Hi!
+# 👋 Hi, there!
 
-Hi, I'm Luyu Cheng.
+I’m Luyu Cheng. I’m interested in learning and researching programming languages and making HCI stuff with front-end and back-end technologies.
 
 [![Luyu Cheng’s GitHub stats](https://github-readme-stats.vercel.app/api?username=chengluyu&show_icons=true)](https://github.com/chengluyu)
 
