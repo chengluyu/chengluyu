@@ -1,8 +1,8 @@
 # 👋 Hi, there!
 
-I’m Luyu Cheng. I’m interested in learning and researching programming languages and making HCI stuff with front-end and back-end technologies. You can find me in many places.
+<img src="https://github-readme-stats.mrdulin.vercel.app/api?username=chengluyu&show_icons=true" align="right" />
 
-<img src="https://github-readme-stats.mrdulin.vercel.app/api?username=chengluyu&show_icons=true&hide_border=true" align="right" />
+I’m Luyu Cheng. I’m interested in learning and researching programming languages and making HCI stuff with front-end and back-end technologies. You can find me in many places.
 
 - 👉 [My Curated Blog](https://luyu.blog/)
 - 🐦 [Twitter @chengluyu](https://twitter.com/chengluyu/)
