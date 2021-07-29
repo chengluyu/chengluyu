@@ -11,5 +11,6 @@ I’m Luyu Cheng. I’m interested in learning and researching programming langu
 - 🎨 [Figma - @v](https://figma.com/@v)
 - 🌅 [Behance - @chengluyu](https://www.behance.net/chengluyu)
 - 📷 [Unsplash - @chengluyu](https://unsplash.com/@chengluyu)
+- 🗣 [Duolingo - @chengluyu](https://www.duolingo.com/profile/chengluyu)
 
 I’m using @chengluyu in many websites and platforms.
