@@ -10,7 +10,7 @@ I’m Luyu Cheng. I’m a PhD candidate at [HKUST TACO][hkust-taco] supervised b
 
 - **Luyu Cheng** and Lionel Parreaux. 2024. _The Ultimate Conditional Syntax_.  
   Proc. ACM Program. Lang. 8, OOPSLA2, Article 306 (October 2024), 30 pages.  
-  [Artifacts][artifacts] • [Online Web Demo][web-demo] • [DOI][doi] • [ACM Digital Library][acm]
+  🏆 **Distinguished Paper Award** • [Artifacts][artifacts] • [Online Web Demo][web-demo] • [DOI][doi] • [ACM Digital Library][acm]
 
 [doi]: https://doi.org/10.1145/3689746
 [acm]: https://dl.acm.org/doi/10.1145/3689746
